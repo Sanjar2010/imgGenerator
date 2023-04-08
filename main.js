@@ -29,7 +29,7 @@ function generateImg(){
     }
     
 
-    
+
 
 
     function loadImg() {
@@ -40,6 +40,8 @@ function generateImg(){
             generateImg()
         } 
     }
+
+    
 
     
     document.getElementById('new-img').addEventListener('click', function() {
