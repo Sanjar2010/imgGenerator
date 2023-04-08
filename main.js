@@ -16,10 +16,6 @@ function generateImg(){
 ]
 
 
-
-
-
-
     
     const randomIndex = Math.floor(Math.random() * images.length)
     const img = images[randomIndex]
