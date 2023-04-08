@@ -14,7 +14,11 @@ function generateImg(){
     innerHTML= ' <img class = "image" src="./image/9.jpeg" alt=""> <h1 class = "h1">Nike Air Force 1`07</h1>',
     innerHTML= ' <img class = "image" src="./image/10.jpeg" alt=""> <h1 class = "h1">Nike Reat Vision</h1>',
 ]
-    
+
+
+
+
+
 
     
     const randomIndex = Math.floor(Math.random() * images.length)
