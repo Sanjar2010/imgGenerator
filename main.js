@@ -50,6 +50,8 @@ function generateImg(){
     })
     
 
+
+    
     
     window.addEventListener('load', function(){
         loadImg
